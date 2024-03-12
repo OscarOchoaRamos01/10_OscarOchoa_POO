@@ -14,6 +14,6 @@ public class S03_10_DoWhile {
         int a = 50;
         do{
             System.out.println("que tal");
-        } while (a == 100);
+        } while (a == 150);
     }
 }
