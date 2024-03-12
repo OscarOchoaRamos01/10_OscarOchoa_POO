@@ -11,7 +11,7 @@ package S03_10;
  */
 public class S03_10_whileDo {
     public static void main(String[] args){
-        int a = 2;
+        int a = 1;
         while( a < 5 ){
             System.out.println("Que tal");
             a++;
