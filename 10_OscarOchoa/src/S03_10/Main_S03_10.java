@@ -14,7 +14,7 @@ public class Main_S03_10 {
 
     
     
-    boolean a = false;
+    boolean a = true;
     
     if(a){
         System.out.println("hola");
