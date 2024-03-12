@@ -18,7 +18,7 @@ public class S03_10_array1 {
         numeros[3] =250;
         numeros[4] =300;
         
-        System.out.println(numeros[3]);
+        System.out.println(numeros[4]);
         
     }
 }
