@@ -9,21 +9,16 @@ package S03_10;
  *
  * @author RYZEN
  */
-public class Main_S03_10 {
+public class S03_10_array1 {
     public static void main(String[] args){
-
-    
-    
-    boolean a = false;
-    
-    if(a){
-        System.out.println("hola");
-    }
-    
-    if(a){
-        System.out.println("ejecución verdadera");
-    }else {
-        System.out.println("ejecución falsa");
+        int[] numeros = new int[5];
+        numeros[0] =100;
+        numeros[1] =150;
+        numeros[2] =200;
+        numeros[3] =250;
+        numeros[4] =300;
+        
+        System.out.println(numeros[3]);
+        
     }
 }
-    }
