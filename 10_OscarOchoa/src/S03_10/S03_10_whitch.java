@@ -11,7 +11,7 @@ package S03_10;
  */
 public class S03_10_whitch {
     public static void main(String[] args){
-        String a ="Casaca";
+        String a ="Zapatilla";
         
         switch(a){
             case "polo":
