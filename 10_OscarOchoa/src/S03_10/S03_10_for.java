@@ -11,7 +11,7 @@ package S03_10;
  */
 public class S03_10_for {
     public static void main(String[] args){
-        for(int a = 0; a <= 10; a++ ){
+        for(int a = 3; a <= 10; a++ ){
             System.out.println("hola");
     }
 }
