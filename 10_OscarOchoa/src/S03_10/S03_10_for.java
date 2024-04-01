@@ -14,4 +14,5 @@ public class S03_10_for {
         for(int a = 3; a <= 10; a++ ){
             System.out.println("hola");
     }
+        }
 }
